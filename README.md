@@ -10,7 +10,7 @@ O curso foi pensado para levar você do básico ao avançado em Python, passando
 A estrutura do curso abrange desde os **fundamentos da linguagem** até conceitos mais avançados, como **Programação Orientada a Objetos (POO)** e **Programação Funcional**.
 
 ## 🗂️ Estrutura do Projeto
-
+```plaintext
 curso_completo_python/
 ├── src/
 │   ├── fundamentos/               # Conceitos básicos da linguagem
@@ -31,7 +31,7 @@ curso_completo_python/
 ├── tests/                         # Testes unitários e funcionais
 ├── requirements.txt               # Dependências do projeto
 └── README.md                      # Documentação do projeto
-
+```
 
 ## 📚 Conteúdos do Curso
 
